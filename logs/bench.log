@@ -1,0 +1,27 @@
+2014-09-26 15:56:52,093 INFO getting app erpnext
+2014-09-26 15:58:19,799 INFO installing erpnext
+2014-09-26 15:59:05,541 INFO creating new site new_smart_tailor
+2014-09-26 15:59:25,006 INFO creating new site new_smrt_tailor
+2014-09-26 16:00:16,709 INFO getting app shopping_cart
+2014-09-26 16:00:22,549 INFO installing shopping_cart
+2014-09-26 16:07:00,926 INFO creating new site new_smrt_tailor
+2014-10-04 12:22:27,990 INFO setting up sudoers
+2014-10-04 12:22:32,040 INFO pulling erpnext
+2014-10-04 12:35:27,561 INFO pulling frappe
+2014-10-04 12:35:33,437 INFO pulling shopping_cart
+2014-10-04 12:51:48,539 INFO setting up sudoers
+2014-10-04 12:51:50,759 INFO pulling erpnext
+2014-10-04 12:51:55,664 INFO pulling frappe
+2014-10-04 12:51:58,965 INFO pulling shopping_cart
+2014-10-14 21:13:37,336 INFO setting up sudoers
+2014-10-14 21:13:41,448 INFO pulling erpnext
+2014-10-14 21:13:47,168 INFO pulling frappe
+2014-10-14 21:13:54,872 INFO pulling shopping_cart
+2014-10-28 21:19:22,116 INFO setting up sudoers
+2014-10-28 21:19:27,334 INFO pulling erpnext
+2014-10-28 21:19:33,163 INFO pulling frappe
+2014-10-28 21:19:46,020 INFO pulling shopping_cart
+2014-11-12 19:34:12,605 INFO setting up sudoers
+2014-11-12 19:34:19,241 INFO pulling erpnext
+2014-11-12 19:34:25,492 INFO pulling frappe
+2014-11-12 19:34:32,955 INFO pulling shopping_cart
